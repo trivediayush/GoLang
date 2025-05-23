@@ -1,7 +1,8 @@
 # Go Learning Repository
 
-
 This repository documents my journey of learning the Go programming language (Golang). It includes sample programs, exercises, notes, and practical implementations to solidify core concepts.
+
+<img src="Go.gif">
 
 ## Contents
 
