@@ -23,12 +23,12 @@ This repository documents my journey of learning the Go programming language (Go
 Clone the repository:
 ```bash
 git clone https://github.com/trivediayush/GoLang.git
-cd go-learning
+cd GoLang
 ```
 
 ## Run and Go
 ```bash
-    go run basics/hello.go
+    go run basics/first.go
 ```
 ## Run Tests
 ```bash
